@@ -60,7 +60,7 @@ plt.show()
 ```
 
 
-![png](output_5_0.png)
+![png](img/output_5_0.png)
 
 
 
@@ -73,7 +73,7 @@ plt.show()
 ```
 
 
-![png](output_6_0.png)
+![png](img/output_6_0.png)
 
 
 
@@ -93,7 +93,7 @@ plt.show()
 ```
 
 
-![png](output_7_0.png)
+![png](img/output_7_0.png)
 
 
 
@@ -112,7 +112,7 @@ plt.show()
 ```
 
 
-![png](output_8_0.png)
+![png](img/output_8_0.png)
 
 
 
@@ -128,7 +128,7 @@ plt.show()
 ```
 
 
-![png](output_9_0.png)
+![png](img/output_9_0.png)
 
 
 
@@ -141,7 +141,7 @@ plt.show()
 ```
 
 
-![png](output_10_0.png)
+![png](img/output_10_0.png)
 
 
 
@@ -152,7 +152,7 @@ plt.show()
 ```
 
 
-![png](output_11_0.png)
+![png](img/output_11_0.png)
 
 
 
@@ -171,7 +171,7 @@ plt.show()
 ```
 
 
-![png](output_12_0.png)
+![png](img/output_12_0.png)
 
 
 
@@ -189,7 +189,7 @@ plt.show()
 ```
 
 
-![png](output_13_0.png)
+![png](img/output_13_0.png)
 
 
 
@@ -211,7 +211,7 @@ imgplot = plt.imshow(img)
 ```
 
 
-![png](output_15_0.png)
+![png](img/output_15_0.png)
 
 
 
@@ -221,7 +221,7 @@ imgplot = plt.imshow(lum_img)
 ```
 
 
-![png](output_16_0.png)
+![png](img/output_16_0.png)
 
 
 
@@ -231,7 +231,7 @@ imgplot.set_cmap('hot')
 ```
 
 
-![png](output_17_0.png)
+![png](img/output_17_0.png)
 
 
 
@@ -241,7 +241,7 @@ imgplot.set_cmap('spectral')
 ```
 
 
-![png](output_18_0.png)
+![png](img/output_18_0.png)
 
 
 
@@ -253,7 +253,7 @@ plt.show()
 ```
 
 
-![png](output_19_0.png)
+![png](img/output_19_0.png)
 
 
 
@@ -263,7 +263,7 @@ plt.show()
 ```
 
 
-![png](output_20_0.png)
+![png](img/output_20_0.png)
 
 
 
@@ -273,7 +273,7 @@ imgplot.set_clim(0.0,0.7)
 ```
 
 
-![png](output_21_0.png)
+![png](img/output_21_0.png)
 
 
 
@@ -309,7 +309,7 @@ plt.show()
 ```
 
 
-![png](output_22_0.png)
+![png](img/output_22_0.png)
 
 
 
@@ -374,7 +374,7 @@ plt.show()
 ```
 
 
-![png](output_23_0.png)
+![png](img/output_23_0.png)
 
 
 
@@ -386,7 +386,7 @@ plt.show()
 ```
 
 
-![png](output_24_0.png)
+![png](img/output_24_0.png)
 
 
 
@@ -403,7 +403,7 @@ plt.show()
 ```
 
 
-![png](output_25_0.png)
+![png](img/output_25_0.png)
 
 
 
@@ -417,7 +417,7 @@ plt.show()
 ```
 
 
-![png](output_26_0.png)
+![png](img/output_26_0.png)
 
 
 
@@ -430,7 +430,7 @@ plt.show()
 ```
 
 
-![png](output_27_0.png)
+![png](img/output_27_0.png)
 
 
 
@@ -451,7 +451,7 @@ plt.show()
 ```
 
 
-![png](output_28_0.png)
+![png](img/output_28_0.png)
 
 
 
@@ -466,7 +466,7 @@ plt.show()
 ```
 
 
-![png](output_29_0.png)
+![png](img/output_29_0.png)
 
 
 
@@ -479,7 +479,7 @@ plt.show()
 ```
 
 
-![png](output_30_0.png)
+![png](img/output_30_0.png)
 
 
 
@@ -520,7 +520,7 @@ plt.show()
 ```
 
 
-![png](output_31_0.png)
+![png](img/output_31_0.png)
 
 
 
@@ -536,7 +536,7 @@ plt.show()
 ```
 
 
-![png](output_32_0.png)
+![png](img/output_32_0.png)
 
 
 
@@ -561,7 +561,7 @@ plt.show()
 ```
 
 
-![png](output_33_0.png)
+![png](img/output_33_0.png)
 
 
 
@@ -583,7 +583,7 @@ plt.show()
 ```
 
 
-![png](output_34_0.png)
+![png](img/output_34_0.png)
 
 
 
@@ -617,7 +617,7 @@ plt.show()
 ```
 
 
-![png](output_35_0.png)
+![png](img/output_35_0.png)
 
 
 
@@ -644,7 +644,7 @@ plt.show()
 ```
 
 
-![png](output_36_0.png)
+![png](img/output_36_0.png)
 
 
 
@@ -667,11 +667,11 @@ plt.show()
 ```
 
 
-![png](output_37_0.png)
+![png](img/output_37_0.png)
 
 
 
-![png](output_37_1.png)
+![png](img/output_37_1.png)
 
 
 
@@ -695,7 +695,7 @@ plt.show()
 ```
 
 
-![png](output_38_0.png)
+![png](img/output_38_0.png)
 
 
 
@@ -728,7 +728,7 @@ plt.show()
 ```
 
 
-![png](output_39_0.png)
+![png](img/output_39_0.png)
 
 
 
@@ -743,7 +743,7 @@ plt.show()
 ```
 
 
-![png](output_40_0.png)
+![png](img/output_40_0.png)
 
 
 
@@ -783,7 +783,7 @@ plt.show()
 ```
 
 
-![png](output_41_0.png)
+![png](img/output_41_0.png)
 
 
 
@@ -812,7 +812,7 @@ plt.show()
 ```
 
 
-![png](output_42_0.png)
+![png](img/output_42_0.png)
 
 
 
@@ -859,7 +859,7 @@ plt.show()
 ```
 
 
-![png](output_43_0.png)
+![png](img/output_43_0.png)
 
 
 
@@ -908,7 +908,7 @@ plt.show()
 ```
 
 
-![png](output_45_0.png)
+![png](img/output_45_0.png)
 
 
 
@@ -945,7 +945,7 @@ plt.show()
 ```
 
 
-![png](output_46_0.png)
+![png](img/output_46_0.png)
 
 
 
@@ -963,7 +963,7 @@ plt.show()
 ```
 
 
-![png](output_47_0.png)
+![png](img/output_47_0.png)
 
 
 
@@ -982,5 +982,5 @@ plt.show()
 ```
 
 
-![png](output_48_0.png)
+![png](img/output_48_0.png)
 
